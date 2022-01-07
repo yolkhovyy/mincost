@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-// ? https://www.geeksforgeeks.org/min-cost-path-dp-6/
+// See https://www.geeksforgeeks.org/min-cost-path-dp-6/
 
 func min(x, y int) int {
 	if x < y {
